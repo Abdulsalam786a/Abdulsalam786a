@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Abdul Salam
 
-<!--
-**Abdulsalam786a/Abdulsalam786a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 👨‍💻 GitHub Username: abdulsalam786a
+- 💻 Passionate about coding and learning new technologies
+- 🌱 Currently learning: Web Development / Programming
+- 🎯 Goal: Become a professional developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 💡 Programming Languages: HTML, CSS, JavaScript (add more if you know)
+- ⚙️ Tools: Git, GitHub, VS Code
+- 🌐 Web Development
+
+---
+
+## 📈 GitHub Stats
+![Abdul Salam's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulsalam&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdulsalam&theme=radical)
+
+---
+
+## 📫 Contact Me
+- Email: your-email@example.com
+- LinkedIn: your-linkedin-link
+
+---
+
+## ✨ Fun Fact
+I love coding and building cool projects 🚀
